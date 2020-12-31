@@ -1,0 +1,71 @@
+*{margin: 0;
+padding: 0;}
+
+
+/*index*/
+
+body{font-family: 'Yellowtail', cursive;}
+
+.allpage{background-color:rgb(31, 97, 141);
+margin-top:40px;
+margin-bottom:40px;}
+
+.container{}
+
+.container h1 span{color:rgb(234, 32, 78 );}
+
+.container h2 span{color:rgb(234, 32, 78 );}
+
+.container h4 i{margin-left:30px;
+color:yellow;}
+
+i:hover{transform:rotate(20deg);}
+
+.container h4 span{color:rgb(234, 32, 164);
+padding:0 30px;}
+
+.container a{float:left;
+margin-left:690px;}
+
+.container a{transition:2s;}
+
+a:hover{transform:scale(2);}
+
+
+
+/*index-2*/
+
+.banner{background-image:url('images/HNYImg.jpg');
+height:500px;
+background-repeat:no-repeat;
+background-position:center;
+background-size:cover;}
+
+.banner1 img{width:10%;
+	transition:2s;
+	margin-left:45px;
+	margin-top:40px;}
+
+.banner1 img:hover{transform:scale(2);}
+
+
+.btext{margin-left:30px;
+	margin-top:15px;
+	font-size:30px;
+color:rgb(47, 234, 32);}
+
+.btext img{width:4%;
+border-radius:20px;
+transition:2s;
+margin-left:246px;
+float: left; margin-right: 30px;}
+
+.btext img:hover{transform:scale(2.5);}
+
+.btext p span{transition:2s;
+color:#FFFDA9;}
+
+.btext p span:hover{transform:scale(1.5);}
+
+
+
